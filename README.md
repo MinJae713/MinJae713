@@ -1,4 +1,6 @@
 ## Hi there 👋
+- How are you today!
+- I'll edit this file for introduce my technical stacks
 
 <!--
 **MinJae713/MinJae713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
