@@ -115,11 +115,3 @@ AI를 활용한 개발 방식이 확산되는 환경에서 백엔드 개발자�
 ### ETC
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" /> 
-
----
-
-<div align="center">
-
-**사용자가 편하게 이용할 수 있는 서비스를 만들기 위해, 구조를 이해하고 문제의 원인을 분석하겠습니다.**
-
-</div>
