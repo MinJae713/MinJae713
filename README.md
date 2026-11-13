@@ -122,6 +122,4 @@ AI를 활용한 개발 방식이 확산되는 환경에서 백엔드 개발자�
 
 **사용자가 편하게 이용할 수 있는 서비스를 만들기 위해, 구조를 이해하고 문제의 원인을 분석하겠습니다.**
 
-📩 [Email](mailto:dbalsend@naver.com) · 💻 [GitHub](https://github.com/MinJae713)
-
 </div>
